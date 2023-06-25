@@ -6,4 +6,5 @@ In this project a system given in the description is simulated with Python. Resu
 
 ## To Run the Code
 Code can be simply run with:
+
 ```python3 src.py```
